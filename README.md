@@ -1,5 +1,5 @@
 ﻿# 👋 Hi, I'm Francesco
-Mechanical engineer with a strong background in robotics, automation and multi-robot systems.  
+Mechatronic engineer with a strong background in robotics, automation and multi-robot systems.  
 I am particularly interested in autonomous systems, robotics integration and aerial robotics.
 ---
 ## 🧠 About me
@@ -25,3 +25,4 @@ I am particularly interested in autonomous systems, robotics integration and aer
 - 🔗 Email: usctfrn01@gmail.com
 
 ---
+
