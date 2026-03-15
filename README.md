@@ -18,6 +18,7 @@ I am particularly interested in autonomous systems, robotics integration and aer
 ## 💻 Technical Skills
 - **Programming Languages:** C++, Python, MATLAB
 - **Robotics:** ROS, Multi-robot systems,Legged robotics Aerial robotics
+- **Simulation Environment**: IsaacSim , Webots, Mujoco 
 - **Areas of Expertise:** Autonomous systems, Control systems, Mechatronics
 ---
 ## 📫 Contacts
