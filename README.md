@@ -1,6 +1,6 @@
 ﻿# 👋 Hi, I'm Francesco
-Mechatronic engineer with a strong background in robotics, automation and multi-robot systems.  
-I am particularly interested in autonomous systems, robotics integration and aerial robotics.
+Robtic engineer with a strong background in automation and multi-robot systems.  
+I am particularly interested in autonomous systems, robotics integration and aerial/legged robotics.
 ---
 ## 🧠 About me
 - ⚙️ SEMP program and Master Thesis at EPFL in Robotic engineering  
@@ -17,13 +17,13 @@ I am particularly interested in autonomous systems, robotics integration and aer
 ---
 ## 💻 Technical Skills
 - **Programming Languages:** C++, Python, MATLAB
-- **Robotics:** ROS, Multi-robot systems,Legged robotics Aerial robotics
-- **Simulation Environment**: IsaacSim , Webots, Mujoco 
+- **Robotics:** ROS2, Multi-robot systems,Legged robotics, Aerial robotics
+- **Simulation Environment**: IsaacSim , Webots, Mujoco, Gazebo  
 - **Areas of Expertise:** Autonomous systems, Control systems, Mechatronics
 ---
 ## 📫 Contacts
 - 🔗 LinkedIn: www.linkedin.com/in/francesco-scatigno-b03ab3308
-- 🔗 Email: usctfrn01@gmail.com
+- 🔗 Email: francesco.scatigno16@gmail.com
 
 ---
 
