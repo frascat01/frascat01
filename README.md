@@ -1,5 +1,5 @@
 ﻿# 👋 Hi, I'm Francesco
-Robtic engineer with a strong background in automation and multi-robot systems.  
+Robotic engineer with a strong background in automation and multi-robot systems.  
 I am particularly interested in autonomous systems, robotics integration and aerial/legged robotics.
 ---
 ## 🧠 About me
